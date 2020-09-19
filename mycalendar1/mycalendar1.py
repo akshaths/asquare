@@ -1,4 +1,4 @@
-# 'herdoc' is better for formatted text than the string literal
+# 'heredoc' is better for formatted text than the string literal
 # Assigning my first two days of school calendar into mySchoolCalendar variable 
 mySchoolCalendar = '''
 Day         Time                    Subject
