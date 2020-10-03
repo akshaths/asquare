@@ -7,3 +7,18 @@ Monday      7:45am  -  8:50am       Pf
 Tuesday     9:10am  -  10:15am      ELD
             10:35am -  11:40am      SS
             12:10pm -  1:15pm       ELA
+           
+           
+
+Monday is present
+
+DAY         TIME                    SUBJECT
+MONDAY      7:45AM  -  8:50AM       PF
+            9:10AM  -  10:15AM      MATH
+            10:35AM -  11:40AM      SCIENCE
+            12:10PM -  1:15PM       ART
+            
+TUESDAY     9:10AM  -  10:15AM      ELD
+            10:35AM -  11:40AM      SS
+            12:10PM -  1:15PM       ELA
+           

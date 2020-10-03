@@ -13,7 +13,19 @@ Tuesday     9:10am  -  10:15am      ELD
            
            
 '''
-
 # printing my school calendar
-print(mySchoolCalendar)
+print(mySchoolCalendar) 
+
+# check if your schedule has Monday
+def findMonday(calendar):
+    if(calendar.find('Monday') == -1):
+        print('Monday is not present')
+    else:
+        print('Monday is present')
+
+
+findMonday(mySchoolCalendar)
+
+# printing schedule in upper case ltters
+print(mySchoolCalendar.upper())
 
