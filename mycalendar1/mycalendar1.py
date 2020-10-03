@@ -29,3 +29,9 @@ findMonday(mySchoolCalendar)
 # printing schedule in upper case ltters
 print(mySchoolCalendar.upper())
 
+# finding string Monday without using find
+
+if 'Monday' in mySchoolCalendar:
+    print('Monday is present')
+else:
+    print('Monday is not present')

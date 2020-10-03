@@ -21,4 +21,5 @@ MONDAY      7:45AM  -  8:50AM       PF
 TUESDAY     9:10AM  -  10:15AM      ELD
             10:35AM -  11:40AM      SS
             12:10PM -  1:15PM       ELA
-           
+ 
+Monday is present          
